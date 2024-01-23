@@ -1,0 +1,7 @@
+document.write('Alterei a porra do body')
+alert('Testando essa porra')
+let nome = prompt("Informe seu nome: ")
+console.log(`Ola ${nome} seja bem-vindo`)
+let numero1 = Number(prompt('Informe o número: '))
+let numero2 = parseInt(prompt('Informe outro número: '))
+console.log(`${numero1 + numero2}`)
